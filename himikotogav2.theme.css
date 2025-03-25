@@ -1,0 +1,50 @@
+/**
+ * @name Himiko Toga
+ * @author tenacious
+ * @version 2
+ * @description himiko toga
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+:root {
+  --background: url('https://cdn.discordapp.com/attachments/1253049073871884369/1353903413846347846/himikohavechill.jpg?ex=67e35850&is=67e206d0&hm=78cf8fca1aa4cbd6d7cf11f0281724ce53a63d1d42660d69411f1c215b6f89ef&');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: url('https://cdn.discordapp.com/attachments/1253049073871884369/1353903731124605020/himikotogaahegao.jpg?ex=67e3589b&is=67e2071b&hm=7defbe947b3a8225867e3c4ab3c06094a5826328d5393183352dcef992659c9d&');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 190,78,180;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.26;
+  --messagetransparency: 0.5;
+  --guildchanneltransparency: 0.15;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: Pacifico;
+  --textbrightest: 3,169,244;
+  --textbrighter: 3,169,244;
+  --textbright: 3,169,244;
+  --textdark: 3,169,244;
+  --textdarker: 3,169,244;
+  --textdarkest: 3,169,244;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+}
+
+/* Any custom CSS below here */
+
+
