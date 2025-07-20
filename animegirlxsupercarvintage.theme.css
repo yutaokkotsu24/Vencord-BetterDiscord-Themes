@@ -1,0 +1,40 @@
+/**
+ * @name Anime girl X Supercar (vintage)
+ * @author tenacious
+ * @version 2.0.0
+ * @description blur edit
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @website https://github.com/yutaokkotsu24/Vencord-BetterDiscord-Themes
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap%27');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ServerRings.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+
+:root {
+  --undefined: 0;
+  --color1: 33,15,36;
+  --color2: 9, 18, 24;
+  --color3: 62,0,255;
+  --undefined: 0;
+  --ColorOpacity: 1;
+  --DisableOpacity: 0;
+  --cursor: url('https://github.com/FeoreV/Themes/blob/main/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://feorev.github.io/Themes/Discord/FVUI/assets/HomeIcon/Icon.png');
+  --undefined: 0;
+  --FVUI: var(--subtheme);
+  --customdesc: "";
+  --image: url('https://cdn.discordapp.com/attachments/1267992140189794346/1396618377459531937/animegirlxcar2.jpg?ex=687ebdb9&is=687d6c39&hm=6f91e34c13b7de79edf47101fee59c1bea28b156c988a7baf03ad54c300e618d&');
+  --OpacityBG: 60%;
+  --BlurBG: 0px;
+}
+
+/* Any custom CSS below here */
+
+
